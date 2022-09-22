@@ -1,0 +1,15 @@
+########## Pertemuan #1 ##########
+- Kendala matriks metode transport :
+1. jumlah permintaan setiap tujuan
+2. jumlah permintaan setiap pabrik
+
+
+aturan nort:
+kalau angka transport paling atas mahal maka hasilnya buruk
+
+untk lanjut ke tabel selanjutnya harus di : (baris + kolom yang) yang digunakan - 1
+
+########## Pertemuan #2 ##########
+"
+
+
